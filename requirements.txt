@@ -1,0 +1,10 @@
+pywin32; platform_system == "Windows"
+onnxruntime
+mss
+pyautogui
+Pillow
+numpy
+colorama
+requests
+PyQt6
+py-cpuinfo
